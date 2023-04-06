@@ -1,0 +1,22 @@
+{
+    "Common": {
+      "Prefix": "&beGen&5>> ",
+      "EmailFile": "email.txt",
+      "ProxyFile": "proxy.txt",
+      "OutputFile": "account.txt",
+      "Timer": true,
+      "ProxyCheckTimeout": 2
+    },
+    "DriverArguments": [
+      "--disable-logging",
+      "--disable-login-animations",
+      "--disable-notifications",
+      "--incognito",
+      "--ignore-certificate-errors",
+      "--disable-blink-features=AutomationControlled",
+      "--disable-gpu",
+      "--headless",
+      "--no-sandbox",
+      "--lang=en"
+    ]
+  }

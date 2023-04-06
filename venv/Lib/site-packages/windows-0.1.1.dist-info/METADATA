@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: windows
+Version: 0.1.1
+Summary: This package name is reserved by Microsoft Corporation
+Home-page: https://aka.ms/python
+Author: Microsoft Corporation
+Author-email: python@microsoft.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+This is not a usable Python package, but the name is
+reserved by Microsoft Corporation.
+
+Visit `aka.ms/Python <https://aka.ms/python>`_ for information about
+tools and products released by Microsoft for Python developers.
+
+You can find other packages published by Microsoft at
+`pypi.org/user/microsoft <https://pypi.org/user/microsoft/>`_
+
+See `www.microsoft.com/trademarks <https://www.microsoft.com/trademarks/>`_
+for full details on Microsoft's trademarks and how you may use them correctly.
+
+
+
